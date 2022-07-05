@@ -1,0 +1,15 @@
+{
+    "Name": "New Mega Explosive.",
+    "Auhor": "zxc.? (Ivan Perzhynsky).",
+    "Description": "New mega explosive! BOOM!",
+    "ModVersion": "1.0",
+    "GameVersion": "1.24+",
+    "ThumbnailPath": "ModThumbnail.png",
+    "EntryPoint": "MegaExplosive.MegaExplosiveBehaviour",
+    "Tags": [
+        "Fun"
+    ],
+    "Scripts": [
+        "MegaExplosive.cs"
+    ]
+}
